@@ -1,26 +1,26 @@
 export const projects = [
   {
-    title: "Software Engineer",
-    subtitle: "Full Stack",
+    title: "Can Do Canines",
+    subtitle: "UI Redesign",
     description:
-      "I have been at Travelers Insurance since 2017 as a full stack engineer with focus on MERN stack applications.",
-    image: "./Travelers-Logo.jpeg",
-    link: "",
+      "UI Redesign of a local non-profit. My role for this project was UX Researcher and UI Designer.",
+    image: "./Can-Do-Canines.png",
+    link: "https://drive.google.com/file/d/1SJnpW1mDZN3muVaeWpGza1fFHY1RvWXm/view?usp=sharing",
   },
   {
-    title: "UX/UI",
-    subtitle: "University of MN Bootcamp",
+    title: "Department of Labor",
+    subtitle: "UI Redesign",
     description:
-      "I am currently studying UX and UI design at the University of MN Bootcamp, which I will complete in June 2022.",
-    image: "./ux.png",
-    link: "",
+      "UI Redesign of the Department of Labor. My role for this project was UX Researcher and UI Designer.",
+    image: "./DoL.png",
+    link: "https://drive.google.com/drive/folders/10SFdCr-0aurhXrdXD46pFS0WDoaVrJGy?usp=sharing",
   }
 ];
 
 export const skills = [
-  "JavaScript",
   "React",
-  "Adobe XD",
+  "CSS",
+  "Figma",
   "Node",
   "MongoDB",
   "Invision",

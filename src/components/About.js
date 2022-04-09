@@ -10,7 +10,7 @@ export default function About() {
                 <br className="hidden lg:inline-block" />
               </h1>
               <p className="mb-8 leading-relaxed">
-              I am a Minneapolis based Software Engineer turned UX/UI designer. 
+              I am a Minneapolis based Software Engineer and UX/UI designer. 
               </p>
               <div className="flex justify-center">
                 <a
